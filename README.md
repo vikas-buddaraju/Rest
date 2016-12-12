@@ -6,7 +6,7 @@ This messenger App is devolped by using REST and Jersey. The messenger app basic
 -----------------------
 Instalation
 -----------------------
-Download the project and import it to eclipse and add jersey jars to class path, it is best to have the postman Rest API client to test the project URI to hit will be provide below in test section. You don't need to connect to any database since I am storing everyting in memory as map(for EX- if you are creating a new message using post it will stored in the map and you will able to retrieve it through GET operation as long as you are in same instance, but if the server is restarted you will loose the instance)
+Download the project and import it to eclipse and add jersey jars to class path, it is best to have the postman Rest API client to test the project, URI to hit will be provide below in test section. You don't need to connect to any database since I am storing everyting in memory as map(for EX- if you are creating a new message using post it will stored in the map and you will able to retrieve it through GET operation as long as you are in same instance, but if the server is restarted you will loose the instance)
 ----------------------
 Test
 ----------------------
